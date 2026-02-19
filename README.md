@@ -4,7 +4,7 @@
 Superstore Sales Dataset
 
 ## Objective
-To analyze patterns, trends, and relationships in the dataset using statistical summaries and visualizations.
+To analyze patterns, trends, and relationships in the dataset using statistical summaries and visualizations. 
 
 ## Business Questions
 - Which category has the highest sales?
